@@ -1,0 +1,10 @@
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore generated files
+*.pyc
+*.zip
